@@ -11,8 +11,8 @@ source text → Lexer → Parser → AST → Interpreter (fixed point) → outpu
 
 ## Group members
 
-- Pablo Manjarres
-- Valentina Barbosa
+- Pablo Manjarres Negrette  
+- Valentina Barbosa Quilindo
 
 ## Versions
 
